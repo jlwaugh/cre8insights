@@ -1,11 +1,11 @@
 {
-    "title": "Landing Page",
-    "name": "startbootstrap-landing-page",
+    "title": "CRE8",
+    "name": "cre8insights",
     "version": "5.0.4",
     "scripts": {
         "start": "gulp watch"
     },
-    "description": "An HTML landing page template built with Bootstrap",
+    "description": "visualizing NYC trends",
     "keywords": [
         "css",
         "sass",
@@ -14,19 +14,19 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/landing-page",
+    "homepage": "http://cre8.nyc",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-landing-page/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/jlwaugh/cre8insights/issues",
+        "email": "james@cre8.nyc"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "CRE8",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "James Waugh"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-landing-page.git"
+        "url": "https://github.com/jlwaugh/cre8insights"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.8.1",
