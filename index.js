@@ -1,18 +1,9 @@
 {
-  "title": "CRE8",
   "name": "cre8insights",
-  "version": "0.0.1",
-  "description": "facilitating coordination",
-  "keywords": [
-    "css",
-    "sass",
-    "html",
-    "responsive",
-    "theme",
-    "template",
-    "admin",
-    "app"
-  ],
+  "description": "a really cool app",
+  "version": "1.0.0",
+  "engines": {
+    "node": "10.15.3"
   "homepage": "http://cre8.nyc",
   "bugs": {
     "url": "https://github.com/jlwaugh/cre8insights/issues",
@@ -44,8 +35,9 @@
     "gulp-sass": "4.0.2",
     "gulp-uglify": "3.0.1"
   },
-  "main": "gulpfile.js",
+  "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "test"
   }
 }
