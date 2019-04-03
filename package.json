@@ -46,6 +46,7 @@
   },
   "main": "gulpfile.js",
   "scripts": {
+    "start": "gulp dev",
     "test": "test"
   }
 }
