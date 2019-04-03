@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "engines": {
     "node": "10.15.3"
+  },
   "homepage": "http://cre8.nyc",
   "bugs": {
     "url": "https://github.com/jlwaugh/cre8insights/issues",
