@@ -1,8 +1,8 @@
 {
-  "title": "SB Admin",
+  "title": "CRE8",
   "name": "cre8insights",
   "version": "0.0.1",
-  "description": "A one page app landing page HTML theme for Bootstrap.",
+  "description": "facilitating coordination",
   "keywords": [
     "css",
     "sass",
@@ -13,27 +13,25 @@
     "admin",
     "app"
   ],
-  "homepage": "https://startbootstrap.com/template-overviews/sb-admin",
+  "homepage": "http://cre8.nyc",
   "bugs": {
-    "url": "https://github.com/BlackrockDigital/startbootstrap-sb-admin/issues",
-    "email": "feedback@startbootstrap.com"
+    "url": "https://github.com/jlwaugh/cre8insights/issues",
+    "email": "james@cre8.nyc"
   },
   "license": "MIT",
-  "author": "Start Bootstrap",
-  "contributors": [
-    "David Miller (http://davidmiller.io/)"
-  ],
+  "author": "James Waugh",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BlackrockDigital/startbootstrap-sb-admin.git"
+    "url": "https://github.com/jlwaugh/cre8insights.git"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "5.7.0",
-    "bootstrap": "4.2.1",
+    "bootstrap": "4.3.1",
     "chart.js": "2.7.3",
     "datatables.net-bs4": "1.10.19",
     "jquery": "3.3.1",
-    "jquery.easing": "^1.4.1"
+    "jquery.easing": "^1.4.1",
+    "popper.js": "^1.14.7"
   },
   "devDependencies": {
     "browser-sync": "2.26.3",
